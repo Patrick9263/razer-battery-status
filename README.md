@@ -36,5 +36,5 @@ python3 ./razerBattery.py
 ```
 
 ## Demo
-![Demo Image](./image/razerDemo.gif)
+![Demo Image](https://github.com/Patrick9263/razer-battery-status/blob/main/images/razerDemo.gif)
 
